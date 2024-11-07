@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.teste.biblioteca.EditAdmin">
+   <children>
+      <Label layoutX="275.0" layoutY="54.0" text="Editar">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="admComboBox" layoutX="191.0" layoutY="84.0" prefHeight="41.0" prefWidth="218.0" />
+      <Button fx:id="updateButton" layoutX="122.0" layoutY="331.0" mnemonicParsing="false" onAction="#handleUpdateButton" prefHeight="41.0" prefWidth="106.0" text="Atualizar" />
+      <Label layoutX="151.0" layoutY="185.0" text="Digite a informação a ser atualizada">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <TextField fx:id="admTextField" layoutX="159.0" layoutY="225.0" prefHeight="41.0" prefWidth="282.0" />
+      <Button fx:id="backButton" layoutX="372.0" layoutY="331.0" mnemonicParsing="false" onAction="#backButton" prefHeight="41.0" prefWidth="106.0" text="Voltar" />
+   </children>
+</AnchorPane>

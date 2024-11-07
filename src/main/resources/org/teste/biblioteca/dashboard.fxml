@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #fffafa;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.teste.biblioteca.Dashboard">
+   <children>
+      <Button fx:id="dashButton1" layoutX="104.0" layoutY="111.0" mnemonicParsing="false" onAction="#checkBooks" prefHeight="39.0" prefWidth="181.0" style="-fx-background-color: #b2e0ff;" text="Livros Disponiveis" textFill="#2e404d">
+         <font>
+            <Font name="Roboto Bold Italic" size="15.0" />
+         </font>
+      </Button>
+      <Label fx:id="mainLabel2" layoutX="14.0" layoutY="14.0" text="Dashboard" textFill="#2e404d">
+         <font>
+            <Font name="Roboto Bold" size="31.0" />
+         </font>
+      </Label>
+      <Button fx:id="dashButton3" layoutX="104.0" layoutY="184.0" mnemonicParsing="false" onAction="#addRemBook" prefHeight="39.0" prefWidth="181.0" style="-fx-background-color: #b2e0ff;" text="Adicionar Livro" textFill="#2e404d">
+         <font>
+            <Font name="Roboto Bold Italic" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="dashButton2" layoutX="317.0" layoutY="111.0" mnemonicParsing="false" onAction="#staffDet" prefHeight="39.0" prefWidth="181.0" style="-fx-background-color: #b2e0ff;" text="Info de Func." textFill="#2e404d">
+         <font>
+            <Font name="Roboto Bold Italic" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="dashButton4" layoutX="317.0" layoutY="184.0" mnemonicParsing="false" onAction="#addStaff" prefHeight="39.0" prefWidth="181.0" style="-fx-background-color: #b2e0ff;" text="Adicionar Funcionario" textFill="#2e404d">
+         <font>
+            <Font name="Roboto Bold Italic" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="dashButton5" layoutX="210.0" layoutY="322.0" mnemonicParsing="false" onAction="#editAdmin" prefHeight="39.0" prefWidth="181.0" style="-fx-background-color: #b2e0ff;" text="Editar ADM" textFill="#2e404d">
+         <font>
+            <Font name="Roboto Bold Italic" size="15.0" />
+         </font>
+      </Button>
+      <Line endX="465.0" layoutX="115.0" layoutY="59.0" startX="-98.0" stroke="#e4e1e1" />
+      <Button fx:id="dashButton5" layoutX="104.0" layoutY="250.0" mnemonicParsing="false" onAction="#remBooks" prefHeight="39.0" prefWidth="181.0" style="-fx-background-color: #b2e0ff;" text="Remover Livro" textFill="#2e404d">
+         <font>
+            <Font name="Roboto Bold Italic" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="dashButton6" layoutX="317.0" layoutY="250.0" mnemonicParsing="false" onAction="#remStaff" prefHeight="39.0" prefWidth="181.0" style="-fx-background-color: #b2e0ff;" text="Remover Funcionario" textFill="#2e404d">
+         <font>
+            <Font name="Roboto Bold Italic" size="15.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

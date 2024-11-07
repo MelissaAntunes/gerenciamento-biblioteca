@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e52732ba-59db-4c36-a761-242cc70e1d6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-j-9.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/protobuf-java-4.26.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/AddBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/AddStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/AvailBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/EditAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/RemoveBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/RemoveStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/teste/biblioteca/StaffDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/5402751.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/teste/biblioteca/addBook.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/teste/biblioteca/addStaff.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/teste/biblioteca/availableBooks.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/teste/biblioteca/dashboard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/teste/biblioteca/editAdmin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/teste/biblioteca/loginPage.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/teste/biblioteca/remBook.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/teste/biblioteca/remStaff.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/teste/biblioteca/staffDetails.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oU3pAYcCQprI7AcnZk1gi9j2CC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/melis/Downloads/mysql-connector-j-9.1.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.28288543",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\melis\IdeaProjects\biblioteca\src\main\resources" />
+      <recent name="C:\Users\melis\IdeaProjects\biblioteca\src\main\resources\org\teste\biblioteca" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-23.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.teste.biblioteca.Main" />
+      <module name="biblioteca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.teste.biblioteca.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e52732ba-59db-4c36-a761-242cc70e1d6b" name="Changes" comment="" />
+      <created>1730910507634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730910507634</updated>
+      <workItem from="1730910508558" duration="10750000" />
+      <workItem from="1730922692441" duration="1379000" />
+      <workItem from="1730924098720" duration="4913000" />
+      <workItem from="1730929097038" duration="122000" />
+      <workItem from="1730986876878" duration="17065000" />
+      <workItem from="1731009931586" duration="5000" />
+      <workItem from="1731014030766" duration="647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
