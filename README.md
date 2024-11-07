@@ -27,7 +27,7 @@ Funcionalidades de login para garantir o acesso restrito a administradores.
 
 ##### admin
 
-user_id: ID do administrador (PK), 
+user_id: ID do administrador (PK),<br/>
 username: Nome de usuário, 
 password: Senha, 
 contact: Informações de contato
