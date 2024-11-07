@@ -3,23 +3,23 @@
 O Sistema de Gerenciamento de Biblioteca é uma aplicação desktop desenvolvida em Java com JavaFX para gerenciamento de usuários, livros e administradores em uma biblioteca. O sistema permite adicionar, editar, excluir e consultar livros e administradores.
 
 ### Tecnologias Utilizadas
-Linguagem de Programação: Java
-Interface Gráfica: JavaFX
-Banco de Dados: MySQL
-IDE: IntelliJ IDEA
-Controle de Versão: Git
+Linguagem de Programação: Java <br/>
+Interface Gráfica: JavaFX <br/>
+Banco de Dados: MySQL<br/>
+IDE: IntelliJ IDEA<br/>
+Controle de Versão: Git<br/>
 
 ### Funcionalidades
 #### Cadastro de Funcionários 
-Edição e remoção de funcionários cadastrados.
+Edição e remoção de funcionários cadastrados.<br/>
 
 #### Cadastro de Livros
-Adição de novos livros com informações como ID do livro, nome, autor, copias.
-Edição e remoção de livros cadastrados.
+Adição de novos livros com informações como ID do livro, nome, autor, copias.<br/>
+Edição e remoção de livros cadastrados.<br/>
 
 #### Tela de Administração
-Interface para visualização e edição de administradores.
-Funcionalidades de login para garantir o acesso restrito a administradores.
+Interface para visualização e edição de administradores.<br/>
+Funcionalidades de login para garantir o acesso restrito a administradores.<br/>
 
 ### Estrutura do Banco de Dados
 
@@ -28,22 +28,22 @@ Funcionalidades de login para garantir o acesso restrito a administradores.
 ##### admin
 
 user_id: ID do administrador (PK),<br/>
-username: Nome de usuário, 
-password: Senha, 
-contact: Informações de contato
+username: Nome de usuário,<br/>
+password: Senha,<br/>
+contact: Informações de contato<br/>
 
 ##### books
 
-book_id: ID do livro (PK), 
-name: Título do livro, 
-author: Autor, 
-copies : Cópias 
+book_id: ID do livro (PK),<br/>
+name: Título do livro,<br/>
+author: Autor, <br/>
+copies : Cópias <br/>
 
 ##### staff
 
-staff_id: ID do funcionário, 
-name: nome do funcionário, 
-contact: contato do funcionário 
+staff_id: ID do funcionário, <br/>
+name: nome do funcionário, <br/>
+contact: contato do funcionário <br/>
 
 ### Requisitos
 -Java 8 ou superior
