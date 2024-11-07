@@ -11,20 +11,26 @@ Controle de Versão: Git
 
 ### Funcionalidades
 Cadastro de Funcionários 
- Edição e remoção de funcionários cadastrados.
+
+Edição e remoção de funcionários cadastrados.
 
 Cadastro de Livros
- Adição de novos livros com informações como ID do livro, nome, autor, copias.
-  Edição e remoção de livros cadastrados.
+
+Adição de novos livros com informações como ID do livro, nome, autor, copias.
+
+Edição e remoção de livros cadastrados.
 
 Tela de Administração
- Interface para visualização e edição de administradores.
-  Funcionalidades de login para garantir o acesso restrito a administradores.
-   Estrutura do Banco de Dados
+
+Interface para visualização e edição de administradores.
+
+Funcionalidades de login para garantir o acesso restrito a administradores.
+
+Estrutura do Banco de Dados
 
 ### O banco de dados library foi projetado com as seguintes tabelas principais:
 
-admin
+**admin**
 
 user_id: ID do administrador (PK)
 
@@ -34,7 +40,7 @@ password: Senha
 
 contact: Informações de contato
 
-books
+**books**
 
 book_id: ID do livro (PK)
 
@@ -44,7 +50,7 @@ author: Autor
 
 copies : Cópias 
 
-staff
+**staff**
 
 staff_id: ID do funcionário
 
