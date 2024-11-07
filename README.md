@@ -26,29 +26,29 @@ Tela de Administração
 
 admin
 
-user_id: ID do administrador (PK)
-username: Nome de usuário
-password: Senha
-contact: Informações de contato
+-user_id: ID do administrador (PK)
+-username: Nome de usuário
+-password: Senha
+-contact: Informações de contato
 
 books
 
-book_id: ID do livro (PK)
-name: Título do livro
-author: Autor
-copies : Cópias 
+-book_id: ID do livro (PK)
+-name: Título do livro
+-author: Autor
+-copies : Cópias 
 
 staff
 
-staff_id: ID do funcionário
-name: nome do funcionário
-contact: contato do funcionário 
+-staff_id: ID do funcionário
+-name: nome do funcionário
+-contact: contato do funcionário 
 
 ### Requisitos
-Java 8 ou superior
-JavaFX
-MySQL: O banco de dados local deve ser configurado com as credenciais apropriadas para conectar à aplicação.
-IntelliJ IDEA ou outra IDE compatível com Java.
+-Java 8 ou superior
+-JavaFX
+-MySQL: O banco de dados local deve ser configurado com as credenciais apropriadas para conectar à aplicação.
+-IntelliJ IDEA ou outra IDE compatível com Java.
 
 ### Instalação e Execução
 1. Configuração do Banco de Dados
